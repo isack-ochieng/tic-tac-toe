@@ -1,1 +1,1 @@
-This is a simple tic-tac-toe game , developed in python
+This is a simple tic-tac-toe game .
